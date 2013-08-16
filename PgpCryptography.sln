@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgpDecryptor", "PgpDecryptor\PgpDecryptor.csproj", "{C581C823-E272-4A54-A193-9314E6ED3167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgpEncryptor", "PgpEncryptor\PgpEncryptor.csproj", "{31072B4A-707A-4700-8942-217B8DFFB700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgpCryptographyUtilities", "PgpCryptographyUtilities\PgpCryptographyUtilities.csproj", "{BCAEE16E-1048-4FA0-9AF7-4C2D33469C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C581C823-E272-4A54-A193-9314E6ED3167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C581C823-E272-4A54-A193-9314E6ED3167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C581C823-E272-4A54-A193-9314E6ED3167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C581C823-E272-4A54-A193-9314E6ED3167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31072B4A-707A-4700-8942-217B8DFFB700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31072B4A-707A-4700-8942-217B8DFFB700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31072B4A-707A-4700-8942-217B8DFFB700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31072B4A-707A-4700-8942-217B8DFFB700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCAEE16E-1048-4FA0-9AF7-4C2D33469C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCAEE16E-1048-4FA0-9AF7-4C2D33469C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCAEE16E-1048-4FA0-9AF7-4C2D33469C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCAEE16E-1048-4FA0-9AF7-4C2D33469C64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
